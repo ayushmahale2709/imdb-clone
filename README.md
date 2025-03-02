@@ -4,6 +4,7 @@
 A simple movie search app using the **OMDb API**, built with **React** and **Vite**. Users can search for movies, view details, and save favorites.
 
 ---
+🚀 Live Demo: https://2211cs040012.bytexl.live/
 
 ## 📌 Features  
 
