@@ -65,10 +65,10 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ## 📸 Screenshots  
 
 🔹 **Homepage:**  
-> *(Add a screenshot here)*  
+> *![Image](https://github.com/user-attachments/assets/26206cca-f05e-4b06-9a65-58eed0417315)*  
 
 🔹 **Movie Details Page:**  
-> *(Add a screenshot here)*  
+> *![Image](https://github.com/user-attachments/assets/2e810201-2fca-4a19-aa42-bd9a0aecdc19)*  
 
 ---
 
